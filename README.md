@@ -1,2 +1,0 @@
-# Tetroid
-Mobile Gaming app
